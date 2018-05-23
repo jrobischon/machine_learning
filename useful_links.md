@@ -7,6 +7,8 @@
 
 **Keras**
 
+## NLP
+* [StarSpace White Paper](https://arxiv.org/pdf/1709.03856.pdf)
 
 ## Blog Posts
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
