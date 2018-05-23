@@ -7,8 +7,11 @@
 
 **Keras**
 
-## NLP
-* [StarSpace White Paper](https://arxiv.org/pdf/1709.03856.pdf)
+## White Papers
+* [StarSpace](https://arxiv.org/pdf/1709.03856.pdf)
+* [Word2Vec](https://arxiv.org/pdf/1301.3781.pdf)
+* [Doc2Vec](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
+
 
 ## Blog Posts
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
